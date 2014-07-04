@@ -216,7 +216,7 @@ body {
 	padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 0px;
 	color: #f8f8f8;
-	background: url(../images/smFISH-banner-large2.png) no-repeat top center;
+	background: url(../images/smFISH-banner-large2.png) no-repeat top center fixed;
 	background-size: cover;
 	text-align: center;
 	padding-left: 0px;
