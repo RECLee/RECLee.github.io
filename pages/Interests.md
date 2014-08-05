@@ -14,7 +14,7 @@ Summary: Research
 <hr class="intro-divider">
 <h3>A quantitative single-cell perspective of signaling:</h3>
 <p class="lead">
-While cells of a clonal population ostensibly express the same components of a signaling network, subtle differences between cells in the abundance or activity of these signaling molecules can lead otherwise identical cells to distinct fates. By using real-time microscopy technologies, and genetically modified cells that express fluorescent biosensors, the activity of different signaling pathway components can be tracked in living single cells and associated with downstream cellular responses. The quantitative link between parameters of signal transduction and biological response in the same cell can be revealing of non-intuitive signal transduction mechanisms that determine how single cells respond to stimuli or drugs. 
+While cells of a clonal population ostensibly express the same components of a signaling network, subtle differences between cells in the abundance or activity of these signaling molecules can lead otherwise identical cells to distinct fates. By using real-time microscopy technologies, and genetically modified cells that express fluorescent biosensors, we track the activity of different signaling pathway components in living cells and associate these with downstream cellular responses in the same cell. The quantitative 'input-output' link between parameters of signal transduction and biological response in the same cell can be revealing of non-intuitive mechanisms that determine how single cells respond to stimuli or drugs. 
 </p>
 <hr class="intro-divider">
 </div>
