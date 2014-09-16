@@ -15,7 +15,7 @@ Summary: contact info
 <p class="lead">Robin E. C. Lee (PI): <a href="mailto:robinlee@pitt.edu"><font color="blue">RobinLee <font color="red">at</font> pitt <font color="red">dot</font> edu</font></a><br>
 University of Pittsburgh School of Medicine<br>
 Computational and Systems Biology<br>
-3501 Fifth Avenue / BST 3083<br>
+3501 Fifth Avenue / BST3 3083<br>
 Pittsburgh, PA 15260<br>
 Phone: (412) 648-8607<br>
 
